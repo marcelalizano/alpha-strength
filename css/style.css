@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=League+Spartan:wght@100..900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap'); 
+
+:root{
+	--f7-theme-color:#566d79;
+	--f7-navbar-bg-color: #566d79; /*navbar*/
+	--f7-navbar-link-color: #fff; /*navbar link*/
+	--f7-navbar-text-color:#fff;
+	--f7-bars-bg-color:#fff;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+}
+
+body{
+	
+}
+
+h1{
+	align-content: center;
+	color: #566d79;
+	font-size: 20pt;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	 font-family: "League Spartan", sans-serif;
+	marging: 5px 0;
+}
+
+h2.block-title{
+	color:  #566d79;
+	font-weight: 800;
+	font-size: 12pt;
+}
+#menu{
+	color: aliceblue;
+}
+
+.material-icons{
+	color: #566d79;
+}
+
+.item-title{
+	color: #566d79;
+}
+
+.navbar-inner{
+	background-color: #566d79;
+}
+
+.card {
+            width: auto;
+            border: 1px solid #ccc;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        .card img {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+        .card-content {
+            padding: 15px;
+        }
+
+h4{
+	color: #fff;
+	align-content: center;
+}
+h5{
+	color: #fff;
+	align-content: center;
+}
+
+p{
+	
+	color:#fff;
+	align-content: center;
+}
+
+#ejercicio1{
+	
+	background-color: #566D79;
+}
+
+#ejercicio2{
+	
+	background-color: #B0BEC5;
+}
+
+#ejercicio3{
+	background-color: #A8C87E;
+}
+
+#ejercicios1{
+	background-color: #566D79;
+}
+
+#ejercicios2{
+	
+	background-color: #B0BEC5;
+}
+
+#ejercicios3{
+	background-color: #A8C87E;
+}
+
+#yoga1{
+	
+	background-color: #566D79;
+	
+}
+
+#yoga2{
+	
+	background-color: #B0BEC5;
+}
+
+#yoga3{
+	background-color: #A8C87E;
+}
+
+.ini1{
+	background-color:#A8C87E ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
